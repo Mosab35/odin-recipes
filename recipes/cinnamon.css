@@ -1,0 +1,40 @@
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    margin: none;
+}
+
+.title {
+    text-align: center;
+    color: green;
+}
+
+.home {
+    text-align: center;
+    background-color: whitesmoke;
+    margin: auto 200px;
+    padding: auto;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.img {
+    margin: 5px 25%;
+
+    border: 1px solid black;
+    box-sizing: border-box;
+    height: 500px;
+    width: auto;
+    border-radius: 20px;
+
+}
+
+.Description {
+    text-align: center;
+    color: black;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: auto 100px;
+
+}
