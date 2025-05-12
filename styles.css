@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.table {
+    box-sizing: border-box;
+
+    height: 100px;
+    width: 400px;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    text-decoration: none;
+}
+
+.title {
+    color: green;
+    text-align: center;
+
+}
+
+.li {
+    color: white;
+    font-size: 20px;
+    margin: 7px;
+    padding: auto;
+    border: 1px solid black;
+    background-color: lightgreen;
+}
