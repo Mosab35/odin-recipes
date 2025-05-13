@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,
+h2 {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
+
+p,
+a,
+li {
+    background-color: whitesmoke;
+    color: black;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px 100px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.div {
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    margin: auto 42%;
+}
